@@ -1,0 +1,63 @@
+
+
+.nav-wrapper{
+	background-color:  rgba(4, 42, 43, 0.89);
+}
+
+#log-container{
+	width: 90%;
+	display: block;
+	margin: 10px auto;
+
+}
+
+.count{
+	margin-left: 20px;
+	padding-left: 20px;
+}
+
+#login-container{
+	width: 30%;
+	display: block;
+	margin: 10px auto;
+
+}
+.search-btn{
+	width: 50%;
+	height:100%;
+	/*border-radius: 50%;*/
+
+}
+.search-form{
+	width: 60%;
+	display: block;
+	margin: 0 auto;
+}
+.ip-search-form{
+	width: 10%;
+}
+
+#overlay{
+	position: fixed;
+	top:8;
+	width:100%;
+	z-index: 10000;
+}
+.detail-view{
+	padding:20px;
+	width: 50%;
+	height:50rem;
+	display: none;
+	margin: 30px auto;
+	background: #FFFFFF;
+	border: 1px solid rgba(4, 42, 43, 0.89);
+	overflow: scroll;
+}
+.content{
+	margin: 20px;
+
+}
+#detail-view{
+	display: none;
+}
+
