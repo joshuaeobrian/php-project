@@ -34,6 +34,7 @@
 			$list = [];
             /**
              * this is the path to the log file
+             * @Change
              */
 			$array = file('C:/wamp64/www/etailinsights/logs/access_log.txt');
 			//loops through the lines in the log file
